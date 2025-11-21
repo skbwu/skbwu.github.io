@@ -5,26 +5,30 @@ author_profile: true
 redirect_from: 
   - /teaching.html
 ---
+## As Teaching Assistant (Stanford)
+- Probability Theory for Statistical Inference (STATS 118): Fall 2025.
+- Statistical Learning and Data Science (STATS 202): Fall 2024.
 
-## Publications
+## As Teaching Assistant (Harvard)
+- Introduction to Statistical Inference (STAT 111): Spring 2024.
+- Machine Learning (CS 181): Spring 2022, Spring 2023 (Co-Head Teaching Fellow).
+- Introduction to Probability (STAT 110): Fall 2021, 2022, and 2023.
 
-D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
+## Select Pedagogical Resources
+- **Introduction to Probability (STAT 110 @ Harvard):** these two files together should provide the motivated student, regardless of incoming background, with a quite solid review of the entire STAT 110 curriculum. Special thanks to my long-time co-TF Catherine Huang for collaborating with me on these resources.
+  - [Midterm Review Guide (Fall 2023)](https://skbwu.github.io/files/110-midterm-review.pdf) and [Final Review Guide (Fall 2023)](https://skbwu.github.io/files/110-final-review.pdf).
+- **Machine Learning (CS 181 @ Harvard):**
+  - [Code Crash Course (Spring 2023)](https://skbwu.github.io/files/181-code-crash-course.pdf): a self-contained crash course on Python assuming no coding background whatsoever. Covers stock Python, `NumPy`, `Matplotlib`, and some other goodies.
+  - [Practical Section (Spring 2023)](https://skbwu.github.io/files/181-practical-section.pdf): a short, practical tour of `scikit-learn`, `PyTorch`, and fundamental dataset-loading practices.
+  - [Matrix Calculus for CS 181 (Spring 2023+)](https://skbwu.github.io/files/181-matrix-calculus.pdf): an introduction to matrix and vector derivatives with some commonly-used examples.
+  - [The Differential, A More Advanced Method for Matrix Derivatives for CS 181 (Spring 2023+)](https://skbwu.github.io/files/181-matrix-differentials.pdf): an introduction to using differential operators to more efficiently compute matrix and vector derivatives.
 
-S. Wu, A. G. Meyer, L. Clemente, L. M. Stolerman, F. Lu, A. Majumder, R. Verbeeck, S. Masyn, and M. Santillana. **Ensemble Approaches for Short-Term Dengue Fever Forecasts: A Global Evaluation Study.** *Proceedings of the National Academy of Sciences 122*. 2025. [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2422335122)]
+## Awards
+- Certificate of Distinction in Teaching: Fall 2021 and Spring 2022, Harvard University, Derek Bok Center for Teaching and Learning. Award discontinued starting Fall 2022.
 
-S. Wu, F. Lu, E. Raff, and J. Holt. **Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling.** *NeurIPS* 2024. [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/38d88c3296eafb09d3971d091a19cf6b-Abstract-Conference.html)]
-
-## Workshop Papers, Working Papers, and Preprints
-
-K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
-
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning?** 2025. [[arXiv](https://arxiv.org/abs/2505.21723)]
-
-S. Wu\*, E. M. Shen\*, C. Badrinath\*, J. Ma, and H. Lakkaraju. **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions.** *Challenges in Deployable Generative AI Workshop at ICML* 2023. [[arXiv](https://arxiv.org/abs/2307.13339)]
-
-S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.** *I Can't Believe It's Not Better Workshop at NeurIPS* 2022. [[arXiv](https://arxiv.org/abs/2307.13855)]
-
-(*Equal Contribution)
+## Sample Section Leader Evaluations (Harvard)
+- [CS 181: Machine Learning (Spring 2023)](https://skbwu.github.io/files/spring-2023-181.pdf): I served as co-Head Teaching Fellow during this semester under Professor Weiwei Pan.
+- [STAT 110: Introduction to Probability (Fall 2023)](https://skbwu.github.io/files/fall-2023-110.pdf): this was my last (of three) semesters serving as an undergraduate teaching fellow for STAT 110, all under Professor Joe Blitzstein.
 
 
 
