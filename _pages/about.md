@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> I will be at NeurIPS 2025 in San Diego, California. Please feel free to reach out if you think we might have common interests!
+> I will be at NeurIPS 2025 in San Diego, California. Please feel free to reach out if you think we might have any common interests!
 
 I am a second-year Statistics Ph.D. student at Stanford working under Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). I am supported by an NSF Graduate Research Fellowship.
 
