@@ -17,7 +17,7 @@ S. Wu, F. Lu, E. Raff, and J. Holt. **Stabilizing Linear Passive-Aggressive Onli
 
 ## Workshop Papers, Working Papers, and Preprints
 
-S. Wu, Y. Nair, and E. J. Candés. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** Working paper, 2025. [[arXiv]()]
+S. Wu, Y. Nair, and E. J. Candés. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2601.20251)]
 
 S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
 
