@@ -23,13 +23,13 @@ S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.
 
 ## Working Papers and Preprints
 
+S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems** Under revision at *The American Statistician*, 2026+. [[arXiv](https://arxiv.org/abs/2505.21723)]
+
 S. Wu, Y. Nair, and E. J. Candès. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** Working paper, 2026. [[arXiv](https://arxiv.org/abs/2601.20251)]
 
 S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
 
 K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
-
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems** Under revision at *The American Statistician*, 2025+. [[arXiv](https://arxiv.org/abs/2505.21723)]
 
 (*Equal Contribution)
 
