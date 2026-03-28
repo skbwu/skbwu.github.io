@@ -9,6 +9,8 @@ Please find a list of my publications and working publications. A full collectio
 
 ## Journal and Peer-Reviewed Conference Publications
 
+S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems.** To appear in *The American Statistician*, 2026+. [[arXiv](https://arxiv.org/abs/2505.21723)]
+
 D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
 
 S. Wu\*, A. G. Meyer\*, L. Clemente, L. M. Stolerman, F. Lu, A. Majumder, R. Verbeeck, S. Masyn, and M. Santillana. **Ensemble Approaches for Short-Term Dengue Fever Forecasts: A Global Evaluation Study.** *Proceedings of the National Academy of Sciences 122*. 2025. [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2422335122)]
@@ -22,8 +24,6 @@ S. Wu\*, E. M. Shen\*, C. Badrinath\*, J. Ma, and H. Lakkaraju. **Analyzing Chai
 S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.** *I Can't Believe It's Not Better Workshop at NeurIPS* 2022. [[arXiv](https://arxiv.org/abs/2307.13855)]
 
 ## Working Papers and Preprints
-
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems.** Under revision at *The American Statistician*, 2026+. [[arXiv](https://arxiv.org/abs/2505.21723)]
 
 S. Wu, Y. Nair, and E. J. Candès. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** Working paper, 2026. [[arXiv](https://arxiv.org/abs/2601.20251)]
 
