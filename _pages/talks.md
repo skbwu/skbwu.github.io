@@ -14,5 +14,8 @@ Here is a collection of my invited and contributed talks. Please feel free to re
 - Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling. *Stanford-Berkeley Joint Colloquium Poster Session.* October 29, 2024.
 - Parallelizing MCMC Across the Sequence Length. *Stanford-Berkeley Joint Colloquium Poster Session.* October 21, 2025.
 
+## Discussant
+- Uncertainty Intervals for Ranking, with Applications in Machine Learning, by Yuval Benjamini, *International Seminar on Selective Inference.* March 19, 2026.
+
 
 
