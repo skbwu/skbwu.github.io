@@ -13,7 +13,9 @@ Here is a collection of my invited and contributed talks. Please feel free to re
 ## Contributed
 - Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling. *Stanford-Berkeley Joint Colloquium Poster Session.* October 29, 2024.
 - Parallelizing MCMC Across the Sequence Length. *Stanford-Berkeley Joint Colloquium Poster Session.* October 21, 2025.
-- Efficient Evaluation of LLM Performance with Statistical Guarantees. *Stanford Causal Science Conference: Frontiers in AI Evaluation Poster Session.* April 24, 2026. 
+- Efficient Evaluation of LLM Performance with Statistical Guarantees. *Stanford Causal Science Conference: Frontiers in AI Evaluation Poster Session.* April 24, 2026.
+- Pushing the Feasibility Frontier of MCMC with Parallelization Across Chain Length. *AI+Science: Accelerating Discovery Conference Poster Session 1,* co-sponsored by Stanford HAI and Stanford Data Science. May 5, 2026.
+- Pro-Active Inference. *AI+Science: Accelerating Discovery Conference Poster Session 2,* co-sponsored by Stanford HAI and Stanford Data Science. May 5, 2026.
 
 ## Discussant
 - Uncertainty Intervals for Ranking, with Applications in Machine Learning, by Yuval Benjamini, *International Seminar on Selective Inference.* March 19, 2026.
