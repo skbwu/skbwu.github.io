@@ -26,6 +26,7 @@ I am passionate about teaching and mentoring, and believe that everyone deserves
   - [The Differential, A More Advanced Method for Matrix Derivatives for CS 181 (Spring 2023+)](https://skbwu.github.io/files/181-matrix-differentials.pdf): an introduction to using differential operators to more efficiently compute matrix and vector derivatives.
 
 ## Awards
+- Statistics Department TA Award: Spring 2026, Stanford University Department of Statistics.
 - Certificate of Distinction in Teaching: Fall 2021 and Spring 2022, Harvard University, Derek Bok Center for Teaching and Learning. Award discontinued starting Fall 2022.
 
 ## Sample Section Leader Evaluations (Harvard)
