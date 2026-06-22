@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> I will be at the 2026 ISBA World Meeting presenting worl from the Linderman Lab and our amazing collaborators on parallelizing MCMC across the sequence length. Please feel free to reach out if you think we may have common research interests &mdash; or if you would just like to chat!
+> I will be at the 2026 ISBA World Meeting presenting work from the Linderman Lab and our amazing collaborators on parallelizing MCMC across the sequence length. Please feel free to reach out if you think we may have common research interests &mdash; or if you would just like to chat!
 
 I am a second-year Statistics Ph.D. student at Stanford and am grateful to be co-advised by Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). I am supported by an NSF Graduate Research Fellowship.
 
