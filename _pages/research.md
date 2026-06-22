@@ -9,7 +9,7 @@ Please find a list of my publications and working publications. A full collectio
 
 ## Journal and Peer-Reviewed Conference Publications
 
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems.** *The American Statistician*, 2026. [[TAS]([https://arxiv.org/abs/2505.21723](https://www.tandfonline.com/doi/full/10.1080/00031305.2026.2669086))]
+S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems.** *The American Statistician*, 2026. [[TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2026.2669086)]
 
 D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
 
