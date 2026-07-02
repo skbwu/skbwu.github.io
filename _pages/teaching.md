@@ -7,7 +7,11 @@ redirect_from:
 ---
 I am passionate about teaching and mentoring, and believe that everyone deserves a chance to learn, regardless of their background. One major reason why I chose to pursue a Ph.D. is because I find purpose in teaching and mentoring future generations. I believe that thoughtfully-targeted teaching materials can play a huge influence in students' success and morale.
 
+## As Instructor (Stanford)
+- Qualifying Exam Workshop: Applied Statistics (STATS 302): Summer 2026.
+
 ## As Teaching Assistant (Stanford)
+- Introduction to Statistics (STATS 60): Spring 2026.
 - Probability Theory for Statistical Inference (STATS 118): Fall 2025.
 - Statistical Learning and Data Science (STATS 202): Fall 2024.
 
