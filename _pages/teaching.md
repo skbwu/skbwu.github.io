@@ -33,9 +33,10 @@ I am passionate about teaching and mentoring, and believe that everyone deserves
 - Statistics Department TA Award: Spring 2026, Stanford University Department of Statistics.
 - Certificate of Distinction in Teaching: Fall 2021 and Spring 2022, Harvard University, Derek Bok Center for Teaching and Learning. Award discontinued starting Fall 2022.
 
-## Sample Section Leader Evaluations (Harvard)
-- [CS 181: Machine Learning (Spring 2023)](https://skbwu.github.io/files/spring-2023-181.pdf): I served as co-Head Teaching Fellow during this semester under Dr. Weiwei Pan.
-- [STAT 110: Introduction to Probability (Fall 2023)](https://skbwu.github.io/files/fall-2023-110.pdf): this was my last (of three) semesters serving as an undergraduate teaching fellow for STAT 110, all under Professor Joe Blitzstein.
+## Sample Section Leader Evaluations
+- [[Stanford] STATS 60: Introduction to Statistics (Spring 2026)](https://skbwu.github.io/files/spring-2026-60.pdf): this was my first time serving on course staff for a Statistics class for non-majors/related-fields, under Professor Tselil Schramm and Dr. Michael Howes. 
+- [[Harvard] STAT 110: Introduction to Probability (Fall 2023)](https://skbwu.github.io/files/fall-2023-110.pdf): this was my last (of three) semesters serving as an undergraduate teaching fellow for STAT 110, all under Professor Joe Blitzstein.
+- [[Harvard] CS 181: Machine Learning (Spring 2023)](https://skbwu.github.io/files/spring-2023-181.pdf): I served as co-Head Teaching Fellow during this semester under Dr. Weiwei Pan.
 
 
 
