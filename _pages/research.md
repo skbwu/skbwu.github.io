@@ -9,6 +9,8 @@ Please find a list of my publications and working publications. A full collectio
 
 ## Journal and Peer-Reviewed Conference Publications
 
+S. Wu, Y. Nair, and E. J. Candès. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** To appear at *NeurIPS* 2026. [[arXiv](https://arxiv.org/abs/2601.20251)]
+
 S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems.** *The American Statistician*, 2026. [[TAS](https://www.tandfonline.com/doi/full/10.1080/00031305.2026.2669086)]
 
 D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
@@ -24,8 +26,6 @@ S. Wu\*, E. M. Shen\*, C. Badrinath\*, J. Ma, and H. Lakkaraju. **Analyzing Chai
 S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.** *I Can't Believe It's Not Better Workshop at NeurIPS* 2022. [[arXiv](https://arxiv.org/abs/2307.13855)]
 
 ## Working Papers and Preprints
-
-S. Wu, Y. Nair, and E. J. Candès. **Efficient Evaluation of LLM Performance with Statistical Guarantees.** Working paper, 2026. [[arXiv](https://arxiv.org/abs/2601.20251)]
 
 S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
 
