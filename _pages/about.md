@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Statistics Ph.D. student at Stanford and am grateful to be co-advised by Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). I am supported by an NSF Graduate Research Fellowship.
+I am a third-year Statistics Ph.D. student at Stanford and am grateful to be co-advised by Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). I am supported by an NSF Graduate Research Fellowship.
 
 Broadly speaking, my research interests lie in computational statistics and statistical machine learning. I am particularly interested in developing scalable methods for probabilistic inference and sampling, as well as statistically principled methods for learning and decision-making in low signal-to-noise ratio (SNR) and other data-constrained settings &mdash; for example, situations where data may be scarce, low-quality, and/or very expensive to obtain. My current work spans Bayesian computation and MCMC, efficient statistical inference and data acquisition, and applications across science and AI. I am especially excited about the real-world applications of these ideas to disease forecasting and public health, AI evaluation and alignment, and Scientific Machine Learning (SciML), but I am always excited to engage with new application areas. 
 
