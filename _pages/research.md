@@ -27,6 +27,8 @@ S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.
 
 ## Working Papers and Preprints
 
+S. Wu, Y. Nair, A. Maechler, and E. J. Candès. **Pro-Active Inference.** Working paper, 2026. [[arXiv](https://arxiv.org/abs/2610.34681)]
+
 S. Wu\* and A. Echarghaoui\*. **Intelligently Weighting Multiple Reference Models for Direct Preference Optimization of LLMs.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2512.10040)]
 
 K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** Working paper, 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
